@@ -2,8 +2,7 @@
 STATE0(7)                  STATE ZERO Manual                   STATE0(7)
 
 <b>NAME</b>
-       state0 — STATE ZERO. Premium apparel for developers who give
-       a damn.
+       state0 — STATE ZERO. An archive of the craft, printed on cotton.
 
 <b>SYNOPSIS</b>
        open <a href="https://wearstatezero.com">https://wearstatezero.com</a>
