@@ -1,13 +1,13 @@
-```
+<pre>
 STATE0(7)                  STATE ZERO Manual                   STATE0(7)
 
-NAME
+<b>NAME</b>
        state0 — STATE ZERO. An archive of the craft, printed on cotton.
 
-SYNOPSIS
-       open https://wearstatezero.com
+<b>SYNOPSIS</b>
+       open <a href="https://wearstatezero.com">https://wearstatezero.com</a>
 
-DESCRIPTION
+<b>DESCRIPTION</b>
        Every system rests on things someone once had to understand.
        Why /dev/null swallows everything. Why 0.1 + 0.2 is not 0.3.
 
@@ -15,21 +15,22 @@ DESCRIPTION
        the archive, printed on a garment made to last, with a short
        note on what it means and why it matters.
 
-OPTIONS
-       --accuracy          If it's printed, it's true.
-       --restraint         The facts are enough.
-       --systems-thinking  Everything rests on something underneath.
+<b>OPTIONS</b>
+       <b>--accuracy</b>          If it's printed, it's true.
 
-NOTES
+       <b>--restraint</b>         The facts are enough.
+
+       <b>--systems-thinking</b>  Everything rests on something underneath.
+
+<b>NOTES</b>
        This organization is a storefront, not a code base. The source
        of the store is private.
 
-SEE ALSO
-       wearstatezero.com, x.com/wearstatezero
+<b>SEE ALSO</b>
+       <a href="https://wearstatezero.com">wearstatezero.com</a>, <a href="https://x.com/wearstatezero">x.com/wearstatezero</a>
 
-AUTHORS
+<b>AUTHORS</b>
        STATE ZERO is a brand of Ourikanova, Unipessoal Lda, Portugal.
 
 STATE ZERO                     2026-09-28                      STATE0(7)
-
-```
+</pre>
