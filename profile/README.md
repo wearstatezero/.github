@@ -1,43 +1,35 @@
-<pre>
+```
 STATE0(7)                  STATE ZERO Manual                   STATE0(7)
 
-<b>NAME</b>
+NAME
        state0 — STATE ZERO. An archive of the craft, printed on cotton.
 
-<b>SYNOPSIS</b>
-       open <a href="https://wearstatezero.com">https://wearstatezero.com</a>
+SYNOPSIS
+       open https://wearstatezero.com
 
-<b>DESCRIPTION</b>
-       STATE ZERO makes premium t-shirts drawn from Unix, Boolean logic
-       and the fundamentals of computer systems.
+DESCRIPTION
+       Every system rests on things someone once had to understand.
+       Why /dev/null swallows everything. Why 0.1 + 0.2 is not 0.3.
 
-       Each design is printed on the chest, centered, in warm white on
-       black. Those who know will read it. Everyone else will see the
-       design.
+       STATE ZERO keeps that knowledge. Each design is an entry in
+       the archive, printed on a garment made to last, with a short
+       note on what it means and why it matters.
 
-       Printed on demand, one order at a time.
+OPTIONS
+       --accuracy          If it's printed, it's true.
+       --restraint         The facts are enough.
+       --systems-thinking  Everything rests on something underneath.
 
-<b>OPTIONS</b>
-       <b>--accuracy</b>
-              Every word and every number means what it says. The
-              price you see is the price you pay.
-
-       <b>--restraint</b>
-              Nothing is added that the design does not need.
-
-       <b>--systems-thinking</b>
-              The shirt, the store and the delivery are one system,
-              and each part is held to the same standard.
-
-<b>NOTES</b>
+NOTES
        This organization is a storefront, not a code base. The source
        of the store is private.
 
-<b>SEE ALSO</b>
-       <a href="https://wearstatezero.com">wearstatezero.com</a>, <a href="https://x.com/wearstatezero">x.com/wearstatezero</a>
+SEE ALSO
+       wearstatezero.com, x.com/wearstatezero
 
-<b>AUTHORS</b>
+AUTHORS
        STATE ZERO is a brand of Ourikanova, Unipessoal Lda, Portugal.
 
 STATE ZERO                     2026-09-28                      STATE0(7)
-</pre>
+
+```
